@@ -158,6 +158,7 @@ The data further shows that stress levels decrease with age, suggesting that stu
 Overall, the findings emphasize that success in education should not be based only on academic performance but also on student well being. Maintaining a balance between studies, mental health, and proper sleep is essential. By reducing academic pressure and promoting healthy habits, educational institutions and stakeholders can help students perform better while also improving their overall quality of life.
 
 REFERENCES
+
 American Psychological Association (2019). Stress in America: Generation Z Report.
 Hershner, S. D., & Chervin, R. D. (2014). Causes and consequences of sleepiness among college students.
 National Institute of Mental Health (2022). Mental Health Information.
